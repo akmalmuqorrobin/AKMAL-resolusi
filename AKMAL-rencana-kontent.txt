@@ -3,7 +3,10 @@ RENCANA KONTEN AKMAL
 - javascript
   * ES6
   * framework javascript
+    ^ Vue
 - struktur data dasar
 - PHP frameworks
+  ^ Laravel
 - interview
 - vlogs
+- python
