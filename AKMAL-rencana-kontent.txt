@@ -3,6 +3,7 @@ RENCANA KONTEN AKMAL
 - javascript
   * ES6
   * framework javascript
+- struktur data dasar
 - PHP frameworks
 - interview
 - vlogs
