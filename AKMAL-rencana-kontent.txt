@@ -1,0 +1,6 @@
+RENCANA KONTEN AKMAL
+
+- javascript
+- PHP frameworks
+- interview
+- vlogs
